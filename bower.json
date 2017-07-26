@@ -1,0 +1,21 @@
+{
+  "name": "typescript-learn",
+  "description": "Learining Typescript",
+  "main": "index.js",
+  "authors": [
+    "Debal Guha"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Typescript",
+    "Angular"
+  ],
+  "homepage": "https://github.com/debalguha/typescript-learn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
